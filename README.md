@@ -30,7 +30,7 @@ Insert your API keys for OpenAI and ElevenLabs in the designated area:
 
 Download the files required for the Text-to-Speech model, in the following [link](https://technionmail-my.sharepoint.com/:u:/g/personal/dan_israeli_campus_technion_ac_il/EU0JTC-cmElHt6akxXAbRgEBGL-nuoqJHmIWkSezF32nrQ?e=if0j6j).
 
-Watch the video [here]() for installation instructions.
+Watch the video [here](https://technionmail-my.sharepoint.com/:v:/g/personal/ariel_cohen_campus_technion_ac_il/EUJ1UGfEfEBKsI6uO1MzEmkBKyRDRyFwc-IRDEW8Zs2IEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=67sIUf) for installation instructions.
 
 ### Creating Conda Environment
 
